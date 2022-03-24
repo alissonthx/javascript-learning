@@ -3,10 +3,18 @@
 body {
   margin: 0 auto;
   font-family: 'Poppins', sans-serif;
+  background-color: #7f5a83;
+  background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
+  min-height: 100vh;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+  display: flex;
 }
 
 a {
   background-color: #9b59b6;
+  text-decoration: none;
   color: white;
   border-radius: 10px;
   display: block;
@@ -15,6 +23,8 @@ a {
   font-size: 1.2rem;
   width: 100%;
   cursor: pointer;
+  width: 100px;
+  max-width: 100%;
 }
 
 h2 {
