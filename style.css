@@ -3,8 +3,8 @@
 body {
   margin: 0 auto;
   font-family: 'Poppins', sans-serif;
-  background-color: #7f5a83;
-  background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
+  background-color: #9921e8;
+  background-image: linear-gradient(315deg, #9921e8 0%, #5f72be 74%);
   min-height: 100vh;
   margin: 0 auto;
   align-items: center;
@@ -13,12 +13,12 @@ body {
 }
 
 a {
-  background-color: #9b59b6;
+  background-color: #6609a3;
   text-decoration: none;
   color: white;
   border-radius: 10px;
   display: block;
-  padding: 1.1rem;
+  padding: 0.8rem;
   font-family: inherit;
   font-size: 1.2rem;
   width: 100%;
@@ -28,5 +28,6 @@ a {
 }
 
 h2 {
+  color: white;
   text-align: center;
 }
