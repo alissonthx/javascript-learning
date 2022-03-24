@@ -4,3 +4,19 @@ body {
   margin: 0 auto;
   font-family: 'Poppins', sans-serif;
 }
+
+a {
+  background-color: #9b59b6;
+  color: white;
+  border-radius: 10px;
+  display: block;
+  padding: 1.1rem;
+  font-family: inherit;
+  font-size: 1.2rem;
+  width: 100%;
+  cursor: pointer;
+}
+
+h2 {
+  text-align: center;
+}
