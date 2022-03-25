@@ -5,14 +5,14 @@
 <a href="https://alissonthx.github.io/javascript-learning/">Click Here!</a>
 </h3>
 
-# 1 Countdown timer
+# 1. Countdown timer
 
 Countdown timer for new Year!
 <h4 align="center"> 
 	Status: 🚧  In Progress...  🚧
 </h4>
 
-# 2 Quiz-App
+# 2. Quiz-App
 
 Quizz app with 4 questions about it Seven deadly sin's
 
