@@ -1,6 +1,9 @@
 # Javascript-learning
-Learning the basics in javascript
+<p>Learning the basics in javascript</p>
+
+<h3>Home Page:
 <a href="https://alissonthx.github.io/javascript-learning/">Click Here!</a>
+</h3>
 
 # 1 Countdown timer
 
