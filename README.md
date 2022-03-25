@@ -6,7 +6,7 @@ Learning the basics in javascript
 
 Countdown timer for new Year!
 <h4 align="center"> 
-	🚧  In Progress...  🚧
+	Status: 🚧  In Progress...  🚧
 </h4>
 
 # 2 Quiz-App
@@ -14,5 +14,5 @@ Countdown timer for new Year!
 Quizz app with 4 questions about it Seven deadly sin's
 
 <h4 align="center"> 
-  🚀 Done 
+  Status: 🚀 Done 
 </h4>
