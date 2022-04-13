@@ -9,7 +9,7 @@
 
 Countdown timer for new Year!
 <h4 align="center"> 
-	Status: 🚧  In Progress...  🚧
+	Status: 🚀 Done 
 </h4>
 
 # 2. Quiz-App
