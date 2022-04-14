@@ -8,7 +8,7 @@ const quizData = [
     correct: 'a'
   },
   {
-    question: "What's the name of Ban husband",
+    question: "What's the name of Ban's partner",
     a: 'Fairy',
     b: 'Rasuto',
     c: 'Elaine',
